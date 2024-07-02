@@ -22,5 +22,6 @@ public class Main {
             default -> 0;
         };
           System.out.println(u);
+        System.out.println(u);
     }
 }
